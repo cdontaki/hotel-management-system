@@ -16,8 +16,8 @@ General
 *  Team: # 10
 
 Project Managers
-*  Dontaki Chrisa
-*  Galitsiou Katerina
+*  Dontaki Chrysa
+*  Gkalitsou Katerina
 
 Coding Team  
 *  Deliopoulos Grigoris  
